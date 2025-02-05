@@ -1,0 +1,6 @@
+ocppServiceId,hostname,evseId
+OS1,ocpp-service-1,EV1
+OS1,ocpp-service-1,EV2
+OS2,ocpp-service-2,EV3
+OS3,ocpp-service-3,EV4
+OS3,ocpp-service-3,EV5

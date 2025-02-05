@@ -1,0 +1,7 @@
+connectorId,type,evseId
+C1,Type1,EV1
+C2,Type2,EV1
+C3,Type1,EV2
+C4,Type2,EV3
+C5,Type1,EV4
+C6,Type2,EV5
