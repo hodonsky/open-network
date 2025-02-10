@@ -52,7 +52,7 @@
     "babel-preset-minify": "^0.5.2",
     "chai": "^5.1.1",
     "chai-as-promised": "^8.0.0",
-    "esbuild": "^0.24.0",
+    "esbuild": "^0.25.0",
     "exports-loader": "^5.0.0",
     "globals": "^15.14.0",
     "mocha": "^10.7.3",

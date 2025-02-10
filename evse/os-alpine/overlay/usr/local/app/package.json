@@ -16,7 +16,7 @@
     "puppeteer": "^23.10.2"
   },
   "devDependencies": {
-    "esbuild": "^0.24.0",
+    "esbuild": "^0.25.0",
     "eslint": "^9.9.1",
     "eslint-webpack-plugin": "^4.2.0",
     "exports-loader": "^5.0.0",
